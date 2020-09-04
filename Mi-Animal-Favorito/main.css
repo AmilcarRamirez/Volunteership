@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    
+    font-family: 'MuseoModerno', cursive;
+}
+
+body{
+    background-color: #fecd7d;
+}
+
+.title{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.11);
+}
+
+.image{
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list{
+    list-style-type: square;
+    list-style-position: inside;
+}
+.text{
+    background-color: rgba(130, 178, 30, 0.3);
+}
